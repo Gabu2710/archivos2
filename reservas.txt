@@ -1,0 +1,6 @@
+Cedula: 1234
+Cliente: gabu
+Habitacion: 4
+Hotel: Swissotel
+Precio: 120.00
+
